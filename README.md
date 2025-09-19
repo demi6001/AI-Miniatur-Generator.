@@ -2,21 +2,29 @@
 
 # AI Miniatur Generator 2025 | Create Miniature AI Images Free
 
+![License](https://img.shields.io/badge/license-MIT-green)
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fai-miniatur.org)
+![Stars](https://img.shields.io/github/stars/demi6001/AI-Miniatur-Generator?style=social)
+![Made with](https://img.shields.io/badge/Made%20with-AI-blueviolet)
+
 🚀 **AI Miniatur Generator 2025** - Create stunning miniature AI images & videos instantly.  
 Perfect for creators, social media, and AI projects. Try it now!
 
 ---
 
 ## 🔗 Official Website
-👉 [Visit AI Miniatur Generator](https://ai-miniatur.org/)
+👉 [Visit AI Miniatur Generator](https://ai-miniatur.org)
 
 ---
 
 ## ✨ Features
-- 🖼️ Generate **miniature-style AI images** in seconds  
-- 🎬 Support for **AI-driven short videos**  
-- 📱 Optimized for **creators & social media content**  
-- ⚡ Fast, easy-to-use, and free to try  
+| Feature                 | Status       |
+|--------------------------|--------------|
+| 🖼️ Miniature AI Images  | ✅ Available |
+| 🎬 AI Short Videos      | ✅ Available |
+| 🌐 Online Generator     | ✅ Available |
+| 📱 Social Media Ready   | ✅ Available |
+| ⚙️ API Access           | 🚧 Coming soon |
 
 ---
 
@@ -28,8 +36,13 @@ Perfect for creators, social media, and AI projects. Try it now!
 
 ---
 
+## 📸 Demo
+> 
+
+---
+
 ## 📢 Get Started
-1. Go to 👉 [AI Miniatur Generator Website](https://ai-miniatur.org/) 
+1. Go to 👉 [AI Miniatur Generator Website](https://ai-miniatur.org)  
 2. Enter your idea or upload an image  
 3. Download and share your unique miniature creation  
 
