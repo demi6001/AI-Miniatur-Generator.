@@ -1,4 +1,4 @@
-
+![AI Miniatur Generator Banner](https://github.com/demi6001/AI-Miniatur-Generator./blob/main/ai-miniature.org.png?raw=true)
 
 # AI Miniatur Generator 2025 | Create Miniature AI Images Free
 
